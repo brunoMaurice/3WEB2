@@ -1,0 +1,20 @@
+body {
+	margin: 0 auto;
+	max-width: 700px;
+}
+
+body > hr {
+	margin: 30px 0;
+}
+
+#chats {
+	max-height: 300px;
+	height: 300px;
+	overflow-y: auto;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+footer {
+	margin-top: 10px;
+}
