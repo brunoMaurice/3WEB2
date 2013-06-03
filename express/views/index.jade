@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  h1= title
+  form(method="POST")
+    label
+      input(type="text", name="username", value="")
+    label
+      input(type="password", name="password", value="")
+    label
+      input(type="submit", value="send")
+  if (posts)
+    div
+      |Username : #{posts.username}
+      br
+      |Password : #{posts.password}
+
