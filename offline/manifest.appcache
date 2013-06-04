@@ -1,0 +1,6 @@
+CACHE MANIFEST
+# Implicitely force cache for the specified file
+css/global.css
+css/bootstrap.min.css
+js/global.js
+index.html

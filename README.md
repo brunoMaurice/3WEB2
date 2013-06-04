@@ -16,3 +16,5 @@ TP #6 - Express, Jade, Mongoose (Save) et NodeJs
 TP #7 - Express, Jade, Mongoose (Save, Show) et NodeJs
 
 TP #8 - jQuery Mobile
+
+TP #9 - Local Storage et Caching (Manifest)
