@@ -12,3 +12,5 @@ TP #4 - Chat, Socket.Io et NodeJs
 TP #5 - Express, Jade et NodeJs
 
 TP #6 - Express, Jade, Mongoose (Save) et NodeJs
+
+TP #7 - Express, Jade, Mongoose (Save, Show) et NodeJs
