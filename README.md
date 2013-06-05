@@ -20,3 +20,5 @@ TP #8 - jQuery Mobile
 TP #9 - Local Storage et Caching (Manifest)
 
 TP #10 - Courses Hosted App
+
+TP #11 - Bookmark Chrome App

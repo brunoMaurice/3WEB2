@@ -1,0 +1,19 @@
+{
+  "name": "My BookMark",
+  "description": "Manage your bookmark with my awesome package app",
+  "version": "1.2.3",
+  "icons": { 
+    "48": "img/icon48.png", 
+    "128": "img/icon128.png" 
+  },
+  "offline_enabled": true,
+  "app": {
+    "launch": {
+      "local_path": "main.html"
+    }
+  },
+  "permissions": [
+    "bookmarks"
+  ],
+  "manifest_version": 2
+}
